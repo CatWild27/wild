@@ -1,0 +1,9 @@
+{
+    "minecraft":{
+        "ip":"localhost",
+        "port":25565
+    },
+    "openBrowserOnStart": true,
+    "password":"",
+    "MCversion":"1.12.2"
+}
